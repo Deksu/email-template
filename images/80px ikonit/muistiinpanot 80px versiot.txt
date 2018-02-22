@@ -1,0 +1,1 @@
+Muutettu 128 px -> 80 px versioihin ja muutettu ikoneita 80 prosenttiin alkuperäisestä koosta
